@@ -335,6 +335,7 @@ section{
   max-width: 300px;
   border-radius: 2em;
   object-fit: cover;
+  border: 2px solid var(--main-color);
 }
 .project-card h3{
   font-size: 3rem;
